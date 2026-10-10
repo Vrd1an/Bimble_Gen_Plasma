@@ -1,4 +1,4 @@
-# RuangBelajar — Frontend Prototype
+# Bimbel Gen Plasma — Frontend Prototype
 
 Prototype UI/UX aplikasi bimbingan belajar dengan 3 role simulasi: Admin, Tutor/Pengajar, dan User/Siswa.
 
